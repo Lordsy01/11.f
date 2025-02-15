@@ -12,7 +12,7 @@
 # # Example usage:
 # #     book = Book("Python Programming", "John Smith", "9780123456789")
 # #     book.checkout()  # Should mark book as unavailable
-# #     book.get_book_info()  # Should return formatted book information
+# #     book.get_book_info()  # Should return formatted book information___________________________
 # # """
 
 def set_isbn(self, isbn):
